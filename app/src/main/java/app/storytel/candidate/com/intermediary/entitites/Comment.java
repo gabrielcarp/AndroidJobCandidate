@@ -1,4 +1,4 @@
-package app.storytel.candidate.com;
+package app.storytel.candidate.com.intermediary.entitites;
 
 public class Comment {
     public int postId;

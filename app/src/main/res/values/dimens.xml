@@ -4,4 +4,10 @@
     <dimen name="text_margin">16dp</dimen>
     <dimen name="detail_backdrop_height">256dp</dimen>
     <dimen name="card_margin">16dp</dimen>
+    <dimen name="image_post_side">48dp</dimen>
+    <dimen name="margin_padding_size_small">8dp</dimen>
+    <dimen name="margin_padding_size_big">24dp</dimen>
+    <dimen name="margin_padding_size_xlarge">32dp</dimen>
+    <dimen name="margin_padding_size_xxlarge">48dp</dimen>
+    <dimen name="margin_padding_size_huge">64dp</dimen>
 </resources>
